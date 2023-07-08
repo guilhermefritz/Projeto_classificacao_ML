@@ -1,1 +1,1 @@
-# Project_Ml
+ Se trata de uma tarefa de classificação binária para Parkinson . Utilizei diversos algoritmos de Machine Learning(Regressão Logistica,Knn,Svm,Gaussian naive bayes,Decision tree,Random Forest,Extra tree,Gradient boosting,Xgboosting) e avaliei seus respectivos desempenhos utilizando métricas de classificação, com o objetivo de obter o melhor resultado.
