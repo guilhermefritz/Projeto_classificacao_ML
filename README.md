@@ -1,1 +1,0 @@
- Se trata de uma tarefa de classificação binária para Parkinson . Utilizei diversos algoritmos de Machine Learning(Regressão Logistica,KNN,SVM,Gaussian Naive Bayes,Decision tree,Random Forest,Extra tree,Gradient boosting,Xgboosting) e avaliei seus respectivos desempenhos utilizando métricas de classificação(Confusion matrix,Curva Roc) com o objetivo de obter o melhor resultado.
